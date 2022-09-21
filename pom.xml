@@ -4,7 +4,7 @@
     <groupId>TestHelloWorldJavaYazan</groupId>
     <artifactId>HelloWorldJavaYazan</artifactId>
     <version>1.0</version>
-    <packaging>jar</packaging>
+    <packaging>war</packaging>
     <licenses>
         <license>
             <name>MIT License</name>
